@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+	background-color: black;
+	color: red;
+}
+
+h1{
+	color: green;
+	font-size: 200%;
+}
+
+.myinfo{
+	font-size: 80%;
+}
+
+#stats{
+	font: 120% "Arial", sans-serif;
+}
