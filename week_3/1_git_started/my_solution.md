@@ -3,42 +3,43 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+Adds specified files to the staging area (readies files to be commited)
 
 #### branch
-<!-- Your defnition here -->
+Creates a separate copy or "branch" of a repository.  Useful for experimenting on code or working out bugs
 
 #### checkout
-<!-- Your defnition here -->
+Allows switching between branches
 
 #### clone
-<!-- Your defnition here -->
+Copies a repository for editing
 
 #### commit
-<!-- Your defnition here -->
+Sends changes from the staging area to the repository
 
 #### fetch
-<!-- Your defnition here -->
+Gets new changes from the original remote repository
 
 #### log
-<!-- Your defnition here -->
+Shows a log of the recent commit change messages
 
 #### merge
-<!-- Your defnition here -->
+Combines changes from a branch to the master branch
 
 #### pull
-<!-- Your defnition here -->
+Grabs changes from a remote repository and merges it into a local repository
 
 #### push
-<!-- Your defnition here -->
+Adds local repository changes to a created branch of the remote repository
 
 #### reset
-<!-- Your defnition here -->
+Resets the staging area to the state of the last commit
 
 #### rm
-<!-- Your defnition here -->
+Removes files from staging area
 
 #### status
+Shows the status of files in the working directory and staging area
 
 
 ## Release 4: Git Workflow
