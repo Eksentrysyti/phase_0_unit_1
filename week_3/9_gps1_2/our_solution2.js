@@ -62,5 +62,4 @@ displayClient(shooterMcGavin);
 
 console.log(shooterMcGavin.showQuote());
 
-/*  Your Reflection:
-In our pairing, Jeremy drove while I navigated the challenge.  After reading the assignment, we 
+//  Your Reflection:

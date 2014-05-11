@@ -44,8 +44,15 @@ Shows the status of files in the working directory and staging area
 
 ## Release 4: Git Workflow
 
+*Assuming remote repo already exists*
+1) 
+
 - Push files to a remote repository
 - Fetch changes
 - Commit locally
+git push [alias of remote repo] [target branch]
+git fetch [alias of remote repo]
+git commit -m "<commit message here>"
 
 ## Release 5: Reflection
+The strategy in learning how to use the command line for git is simply practice.  Reading about the commands didn't help much in learning how to use the comamnd line, but after a few times moving files around, I got the hang of using the commands.  gitref.org was a great help as a resource as it listed all the git commands and made it easy to look up how to use each command.  It also gave examples on how to use each command and any extra properties a command might have.
