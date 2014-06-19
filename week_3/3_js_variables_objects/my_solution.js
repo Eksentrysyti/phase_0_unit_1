@@ -1,40 +1,43 @@
-// I paired [by myself, with:] on this challenge.
-
-
-
+// I completed this challenge by myself.
 
 // Pseudocode
-// 
-// 
-// 
-// 
-
+// define secretNumber as integer
+// set secretNumber to 7
+// define password as string
+// set password to 'just open the door'
+// define allowedIn as boolean
+// set allowedIn to false
+// define members as array
+// set first element to "John"
+// set fourth element to "Mary"
 
 // __________________________________________
 // Write your code below.
 
-
-
-
-
+var secretNumber = 25;
+secretNumber = 7;
+var password = 'hello';
+password = 'just open the door';
+var allowedIn = true;
+allowedIn = false;
+members = Array();
+members[0] = "John";
+members[3] = "Mary";
 
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
-
+// Does not need to be refactored, variables are declared and set as simple as possible.  The code is good because it is readable and very clear what each line is doing.
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
 
+/*
+  Once I figured out how to read the error messages, it was simple to create and set variables based on what was required.  I did need to check up on syntax differences from Ruby (such as the array declaration), but otherwise this challenge was very straightforward.
+*/
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
